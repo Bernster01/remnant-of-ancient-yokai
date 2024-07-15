@@ -13,22 +13,22 @@ The yokai in aimaiyo are diverse in their appearance and behaviors. Some are hum
 There exist four Guardian Yokai, ancient and powerful spirits appointed by the ancient powers to maintain the equilibrium between the worlds. These ancient spirits, each aligned with a cardinal direction, have watched over the land for eons, ensuring that the balance between the worlds is maintained. 
 
 
-[[content/world/Characters/NPC/Seiryu|Seiryu]] of the East, the Azure Dragon (東):
+[[Seiryu]] of the East, the Azure Dragon (東):
 Symbol: A regal dragon coiled around a sacred orb.
 Domain: The eastern expanse, representing wood and spring.
 Responsibility: Seiryu  is the guardian of life and growth, nurturing the vitality of the land. 
 
-[[content/world/Characters/NPC/Suzaku|Suzaku]] of the South, the Vermilion Phoenix (南):
+[[Suzaku]] of the South, the Vermilion Phoenix (南):
 Symbol: A graceful phoenix with wings outstretched.
 Domain: The southern reaches of Aimaiyo, embodying fire and summer.
 Responsibility: Suzaku oversees the renewal of nature, the cycle of rebirth, and the flourishing of flora.
 
-[[content/world/Characters/NPC/Byakko|Byakko]] of the West, the White Tiger (西):
+[[Byakko]] of the West, the White Tiger (西):
 Symbol: A proud white tiger standing amidst swirling winds.
 Domain: The western territories, embodying metal and autumn.
 Responsibility: Byakko guards against malevolent forces and ensures the balance of power.
 
-[[content/world/Characters/NPC/Genbu|Genbu]] of the North, the Black Tortoise (北):
+[[Genbu]] of the North, the Black Tortoise (北):
 Symbol: A stoic tortoise bearing an ornate, celestial shield.
 Domain: The northern lands, representing water and winter.
 Responsibility: Genbu governs the ebb and flow of energies, providing stability to the cosmic currents.
