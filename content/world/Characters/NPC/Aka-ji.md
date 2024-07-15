@@ -1,0 +1,1 @@
+The guildmaster of [[The yokai hunting guild]]
