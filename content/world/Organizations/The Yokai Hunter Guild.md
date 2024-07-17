@@ -1,0 +1,1 @@
+The guild is situated in the neutral city of [[Hanran]].
